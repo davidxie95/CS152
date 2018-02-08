@@ -1,0 +1,38 @@
+BooleTest
+
+t && f = false
+t || f = true
+!t = false
+
+//--------------------------
+
+ExpTest
+
+3.14
+3.14
+
+//--------------------------
+
+NumberTest
+
+i1 * i2 = 42
+i1 == i2 = false
+i1 < i2 = false
+i1 < i2 = true
+i1.## = 55
+r1 * r2 = 8.5094
+r1 == r2 = false
+r1 < r2 = false
+r1 < r2 = true
+r1.## = 1565118
+r1 * i2 = 18.84
+i1 * r2 = 18.97
+
+//--------------------------
+
+TextTest
+
+s4 = California...Dreaming
+iforn
+California < Dreaming = true
+
