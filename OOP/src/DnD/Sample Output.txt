@@ -1,0 +1,22 @@
+Thor is stabbing Puff
+Puff's health: 80
+Puff is flaming Thor
+Thor's health: 86
+Thor is stabbing Puff
+Puff's health: 65
+Puff is flaming Thor
+Thor's health: 84
+Thor is stabbing Puff
+Puff's health: 43
+Puff is flaming Thor
+Thor's health: 69
+Thor is stabbing Puff
+Puff's health: 20
+Puff is flaming Thor
+Thor's health: 59
+Thor is stabbing Puff
+Puff's health: 13
+Puff is flaming Thor
+Thor's health: 47
+Thor is stabbing Puff
+Puff's health: 0
